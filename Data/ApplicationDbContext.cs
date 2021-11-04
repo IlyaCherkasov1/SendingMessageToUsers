@@ -17,5 +17,7 @@ namespace SendingMessageToUsers.Data
 
         }
 
+        public DbSet<Message> Messages { get; set; }
+
     }
 }

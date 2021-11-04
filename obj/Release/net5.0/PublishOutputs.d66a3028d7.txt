@@ -1,8 +1,10 @@
 C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\SendingMessageToUsers.exe
+C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\css\buttons.css
 C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\css\site.css
 C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\favicon.ico
 C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\index.html
-C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\js\signalr\dist\browser\signalr.min.js
+C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\js\microsoft\signalr\dist\browser\signalr.min.js
+C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\js\sendmessage.js
 C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\js\site.js
 C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\HP\source\repos\SendingMessageToUsers\SendingMessageToUsers\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

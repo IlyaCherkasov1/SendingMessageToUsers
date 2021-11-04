@@ -30,7 +30,11 @@ namespace SendingMessageToUsers
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSignalR();
+            services.AddSignalR(options =>
+            {
+                options.EnableDetailedErrors = true;
+
+            });
 
             services.AddDbContext<ApplicationDbContext>(options =>
               options.UseInMemoryDatabase("MEMORY"))
